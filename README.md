@@ -53,3 +53,10 @@
     "storeId": "1"
   }
   ```
+
+> [!WARNING]
+>
+> - THis is the Fork from Maks Quper24 Leskin repository original: <https://github.com/Quper24/pet-planet-api>
+> - The current link to GitHub is: <https://github.com/mindfling/pet-planet-quper24-api>
+> - this project is deployed on Glitch server by DIm: <https://thundering-glossy-elf.glitch.me>
+> - Exapmle for receive API list of products: <https://thundering-glossy-elf.glitch.me/api/products>
